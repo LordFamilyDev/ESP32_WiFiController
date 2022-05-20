@@ -1,4 +1,5 @@
 # Arduino-POST-HTTP-Parser
+Forked and masacred by Lordy
 Library for parsing incomming post JSON data.
 
 Fully stable on Arduino Mega with a Ethernet Shield V2.0
